@@ -1,2 +1,1 @@
-# MinimalisticGroceryList
-Created with CodeSandbox
+Live at https://tj220.csb.app/
